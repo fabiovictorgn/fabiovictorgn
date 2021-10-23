@@ -6,11 +6,12 @@
   <a href="https://instagram.com/fabiovictorgn" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/Fabio Victor#1202" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:contatofabiovictorgn@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<img align= "right" width= "155" src= "https://github.com/fabiovictorgn/fabiovictorgn/blob/main/bob.gif"/>
 </div>
+
+<img align= "right" width= "155" src= "https://github.com/fabiovictorgn/fabiovictorgn/blob/main/bob.gif"/>
 
 <div align="center">
   <a href="https://github.com/fabiovictorgn">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=fabiovictorgn&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiovictorgn&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabiovictorgn&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiovictorgn&layout=compact&langs_count=7&theme=dark"/>
 </div>
