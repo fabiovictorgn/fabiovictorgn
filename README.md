@@ -13,7 +13,7 @@
 
 <div align="leaf">
   <a href="https://github.com/fabiovictorgn">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=fabiovictorgn&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiovictorgn&layout=compact&langs_count=7&theme=dark"/>
-  <img align= "right" width= "120" src= "https://github.com/fabiovictorgn/fabiovictorgn/blob/main/bob.gif"/>
+  <img height="125em" src="https://github-readme-stats.vercel.app/api?username=fabiovictorgn&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiovictorgn&layout=compact&langs_count=7&theme=dark"/>
+  <img align= "right" width= "125" src= "https://github.com/fabiovictorgn/fabiovictorgn/blob/main/bob.gif"/>
 </div>
